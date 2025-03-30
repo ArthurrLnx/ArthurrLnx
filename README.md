@@ -1,16 +1,13 @@
-## Hi there 👋
+#include <iostream>
+#include <string>
 
-<!--
-**ArthurrLnx/ArthurrLnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+auto __stdcall main() -> int
+{
+    std::string info = "Systems analysis and development";
+    std::string langs[4] = {"Web", "JavaScript", "Python"};
 
-Here are some ideas to get you started:
+    // i hate python so much ^-^
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    return 0;
+
+}
