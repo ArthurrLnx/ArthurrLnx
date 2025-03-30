@@ -7,7 +7,7 @@
 public class Main {
     public static void main(String[] args) {
         String info = "System analysis and development";
-        String[] lang = {"Web", "JavaScript", "Python"};
+        String[] lang = {"Web", "JavaScript", "Java",  "Python"};
 
         // i hate python so much ^-^
 
