@@ -4,11 +4,14 @@
 - 📅 **April** – 19 years old.
 
 ```cpp
-const info = "System analysis and development";
-const lang = ["Web", "JavaScript", "Python"];
+public class Main {
+    public static void main(String[] args) {
+        String info = "System analysis and development";
+        String[] lang = {"Web", "JavaScript", "Python"};
 
-// I love Python :)
+        // i hate python so much ^-^
 
+    }
 }
 ```
 
