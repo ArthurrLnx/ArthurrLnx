@@ -3,34 +3,69 @@
 - 📚 **Studying** – Java
 - 📅 **April** – 19 years old.
 
-```cpp
-public class Main {
-    public static void main(String[] args) {
-        String info = "System analysis and development";
-        String[] lang = {"Web", "JavaScript", "Java",  "Python"};
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurrLnx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurrLnx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-        // i hate python so much ^-^
+###
 
-    }
-}
-```
+<h3 align="left">👩‍💻  Programming languages</h3>
 
-# Technologies
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno5aGdyanp3b28xMm51aG8ydnh6a3ZiYWZudGw0dmw3a2hscDA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vfTnz2QVJ1ip2/giphy.gif">
 <div align="left">
-    <div>
-      <img alt="JavaScript" src="https://shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange"> 
-      <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=orange">
-      <img alt="Windows" src="https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows">
-      <img alt="Git" src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git">
-      <img alt="GitHub" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github">
-    </div>
-    <hr height="1">
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-# Contact
-- 📧 **Email**: [arthuracessor@gmail.com](mailto:arthuracessor@gmail.com)
-- 💬 **Discord**: [@7htz](https://discordapp.com/users/706220524870828162)  
-- 📱 **WhatsApp**: [+55 14 99879-5043](https://wa.me/5514998795043)  
+###
+
+<h3 align="left">🛠  Tools & Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+</div>
+
+###
+
+<h3 align="left">📲  Contact me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arthur-camilo-acessor-a89144349/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/arthurdevz7_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5514998795043" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:arthuracessor@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/706220524870828162" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
