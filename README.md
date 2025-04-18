@@ -3,6 +3,19 @@
 - 📚 **Studying** – Java
 - 📅 **April** – 19 years old.
 
+```cpp
+public class Main {
+    public static void main(String[] args) {
+        String info = "System analysis and development";
+        String[] lang = {"Html5", "CSS3", "JavaScript", "TypeScript", "Node.JS",  "Python"};
+
+        // i hate python so much ^-^
+
+    }
+}
+```
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurrLnx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurrLnx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
