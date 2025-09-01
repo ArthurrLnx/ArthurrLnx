@@ -1,7 +1,7 @@
 # Hi, I'm Arthur 👋
 - 💻 **System Analysis and Development** - ​​Developing efficient and secure systems with a focus on innovation and cybersecurity. Currently in the 4th term of Systems Analysis and Development at FATEC, creating solutions to optimize processes and enhance user experience.
 - 📚 **Studying** – Java
-- 📅 **April** – 19 years old.
+- 📅 **April** – 20 years old.
 
 ```cpp
 public class Main {
